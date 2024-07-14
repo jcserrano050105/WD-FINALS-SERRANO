@@ -17,8 +17,8 @@
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  --> jbclamor
-<!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-FINAL
+<!-- TODO: Change the zyx-0314 into your github username  -->jcserrano050105
+<!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-FINALS-SERRANO
 ![](https://visit-counter.vercel.app/counter.png?page=jcserrano050105/WD-FINALS-SERRANO)
 
 ---
