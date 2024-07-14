@@ -8,11 +8,11 @@
   <!-- TODO: If you want to add logo or banner you can add it here -->
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD-FINALS</h3>
+  <h3 align="center">WD-FINALS-SERRANO</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This project aims to showcase skills as a programmer using HTML and CSS, designing different layouts and can also serve as a future portfolio.
+ This project is meant to show off my abilities as a web creator using HTML and CSS. The goal is to make a personal website with various page designs and styles, which I can also use as a collection of my work, skills, and accomplishments in the future.
 </div>
 
 <br />
