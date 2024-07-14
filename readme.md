@@ -19,7 +19,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  --> jbclamor
 <!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-FINAL
-![](https://visit-counter.vercel.app/counter.png?page=jbclamor/WD-Finals)
+![](https://visit-counter.vercel.app/counter.png?page=jcserrano050105/WD-FINALS-SERRANO)
 
 ---
 
@@ -57,9 +57,7 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
-
-This project is made to build a personal website to demonstrate my design and web development skills. This can be used as a future portfolio to store my achievements, skills showcase, etc. The key components of this website is the 5 distinct pages, the following are: Resume-like page, Project Showcase page, Design layouts page and an Engaging overview page of the website. The technology used for this website is mainly HTML and CSS.
-
+This project aims to create a personal website that showcases my design and web development skills, serving as a portfolio to highlight my achievements, skills, and projects. The key components of this website include five distinct pages: a resume-like page presenting my professional background, a project showcase page featuring my past work, a design layouts page showcasing my expertise in web design, an engaging overview page providing a comprehensive introduction, and potentially additional pages to enhance the website's functionality and versatility. The primary technologies used for this website will be HTML and CSS, which I will leverage to create a visually appealing, responsive, and user-friendly website that effectively communicates my capabilities as a web designer and developer.
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
